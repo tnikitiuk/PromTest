@@ -23,3 +23,5 @@ groups:
       description: 'Nginx is down'
     labels:
       severity: 'critical'
+
+      #code code code
